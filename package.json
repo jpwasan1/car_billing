@@ -1,0 +1,24 @@
+{
+	"name": "NodejsCloudantExample",
+	"version": "0.0.1",
+	"description": "Nodejs app using CloudantDB",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"async": "*",
+		"body-parser": "^1.18.3",
+		"cfenv": "1.0.x",
+		"cloudant": "*",
+		"express": "^4.16.3",
+		"fs": "*",
+		"json2csv": "*",
+		"nano": "*",
+		"path": "*",
+		"request": "*"
+	},
+	"repository": {},
+	"engines": {
+		"node": "0.12.x"
+	}
+}
